@@ -82,5 +82,5 @@ Ierarhia de clase va constitui scheletul proiectului, facilitând organizarea ș
 Adăugarea coliziunilor.
 Optimizări și îmbunătățiri: Sugerări privind modul în care proiectul poate fi optimizat sau îmbunătățit în viitor. Deschideți ușa pentru feedback din partea altor utilizatori sau colegi. Discutați despre posibilitatea colaborărilor viitoare sau modul în care proiectul ar putea fi extins cu contribuțiile altor dezvoltatori.
 7.	Referinte
-Laboratoare.
+Facultate.
 https://youtu.be/E64VK-qolUU?si=G5mtFPLNEjf-ofk0 – pentru lumina punctiforma.
