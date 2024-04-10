@@ -1,3 +1,5 @@
+To run the project run the .exe executable.
+
 Cuprins:
 1. Cuprins
 2. Prezentarea temei
