@@ -1,0 +1,12 @@
+﻿  main.cpp
+E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\OpenGLLab12\main.cpp(110,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\OpenGLLab12\main.cpp(334,13): warning C4305: '=': truncation from 'double' to 'float'
+E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\OpenGLLab12\main.cpp(381,22): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\OpenGLLab12\main.cpp(390,12): warning C4305: '=': truncation from 'double' to 'float'
+E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\OpenGLLab12\main.cpp(396,22): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating code
+  26 of 1861 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLLab12.vcxproj -> E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\x64\Release\OpenGLLab12.exe

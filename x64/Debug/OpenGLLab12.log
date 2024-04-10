@@ -1,0 +1,26 @@
+﻿  Camera.cpp
+E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\OpenGLLab12\Camera.cpp(86,43): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\OpenGLLab12\Camera.cpp(87,43): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Mesh.cpp
+  Model3D.cpp
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Generating Code...
+  main.cpp
+E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\OpenGLLab12\main.cpp(111,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\OpenGLLab12\main.cpp(335,13): warning C4305: '=': truncation from 'double' to 'float'
+E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\OpenGLLab12\main.cpp(382,22): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\OpenGLLab12\main.cpp(391,12): warning C4305: '=': truncation from 'double' to 'float'
+E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\OpenGLLab12\main.cpp(397,22): warning C4305: '-=': truncation from 'double' to 'float'
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+  OpenGLLab12.vcxproj -> E:\Toby\Faculta\An3\Semestru_1\PG\OpenGLLab12\x64\Debug\OpenGLLab12.exe

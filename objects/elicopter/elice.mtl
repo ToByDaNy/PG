@@ -1,0 +1,12 @@
+# Blender 4.0.2 MTL File: 'Heli_bell.blend'
+# www.blender.org
+
+newmtl Mat_maverick.011_ec1351.bmp
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ec1351.bmp
