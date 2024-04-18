@@ -2,20 +2,20 @@ To run the project run the .exe executable.
 
 Cuprins:
 1. Cuprins
-2. Prezentarea temei
-3. Scenariul
-    3.1. descrierea scenei și a obiectelor
-    3.2. funcționalități
-4. Detalii de implementare
-    4.1. funcții și algortmi
-           4.1.1. soluții posibile
-           4.1.2. motivarea abordării alese
-    4.2. modelul grafic
-    4.3. structuri de date
-    4.4. ierarhia de clase
-5. Prezentarea interfeței grafice utilizator / manual de utilizare
-6. Concluzii și dezvoltări ulterioare
-7. Referințe
+	2. Prezentarea temei
+	3. Scenariul
+	    3.1. descrierea scenei și a obiectelor
+	    3.2. funcționalități
+	4. Detalii de implementare
+	    4.1. funcții și algortmi
+	           4.1.1. soluții posibile
+	           4.1.2. motivarea abordării alese
+	    4.2. modelul grafic
+	    4.3. structuri de date
+	    4.4. ierarhia de clase
+	5. Prezentarea interfeței grafice utilizator / manual de utilizare
+	6. Concluzii și dezvoltări ulterioare
+	7. Referințe
 
 2.	Prezentarea temei
 Tema reprezinta o scena in natura intre munti brazi si rau, cu anumite animatii, ceata lumini si functionalitati. Proiect OpenGL cu efecte de iluminare avansate, modele dinamice și control al camerei. Include shadere, FBO și un skybox pentru realism.
